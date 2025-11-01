@@ -7,7 +7,12 @@
             "name": "sortbenchmark",
             "request": "launch",
             "mainClass": "sortbenchmark",
-            "args": [ "<", "input.txt", ">", "output.txt" ]
+            "args": [
+                "<",
+                "input.txt",
+                ">",
+                "output.txt"
+            ]
         }
     ]
 }
